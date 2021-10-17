@@ -4,7 +4,7 @@
 <nav class="bg-gray-100 py-4">
   <div class="max-w-5xl mx-auto flex items-center">
     <a href="/" class="h-8 w-8 mr-10">
-      <img src="logo.svg" alt="Track4All" />
+      <img src="logo.svg" alt="Logo" />
     </a>
     <a href="/about" class="mr-8 text-gray-600">
       About
@@ -19,9 +19,5 @@
 
 
 <style lang="scss">
-  main {
-    p {
-      @apply text-gray-500;
-    }
-  }
+
 </style>

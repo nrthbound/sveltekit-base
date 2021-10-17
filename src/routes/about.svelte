@@ -1,9 +1,13 @@
+<svelte:head>
+	<title>Tracker - About </title>
+</svelte:head>
+
 <script>
 
 </script>
 
 <div class="max-w-5xl mx-auto py-10">
   <p>
-    This site is a way to quickly track simple shit
+    The about page
   </p>
 </div>
