@@ -1,9 +1,5 @@
-<svelte:head>
-	<title>Settings</title>
-</svelte:head>
-
 <script></script>
 
-<main>
+<main class="fence">
   Content
 </main>

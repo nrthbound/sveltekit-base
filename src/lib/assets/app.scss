@@ -2,3 +2,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.fence {
+  @apply max-w-5xl mx-auto py-10;
+}
