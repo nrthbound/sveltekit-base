@@ -3,7 +3,7 @@
 </svelte:head>
 
 <script>
-  let msg = "This is the fucking message"
+  let msg = "This is a test message."
 </script>
 
 {msg}
